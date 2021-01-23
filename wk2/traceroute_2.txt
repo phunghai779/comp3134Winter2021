@@ -1,0 +1,10 @@
+Tracing route to google.com [172.217.0.238]
+over a maximum of 30 hops:
+
+  1     5 ms     3 ms    16 ms  192.168.0.1
+  2    17 ms    22 ms    20 ms  38.17.56.129
+  3    20 ms    16 ms    32 ms  38.117.112.26
+  4    28 ms    23 ms    16 ms  38.117.112.25
+  5    92 ms    32 ms    38 ms  96.125.138.241
+  6    18 ms    31 ms    75 ms  45.2.0.228
+  7    43 ms    17 ms    17 ms  96.125.139.250

@@ -1,0 +1,42 @@
+Domain Name: GOOGLE.COM
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-09-09T15:39:04Z
+Creation Date: 1997-09-15T04:00:00Z
+
+---
+
+Domain Name: FACEBOOK.COM
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrarsafe.com
+Registrar URL: http://www.registrarsafe.com
+Updated Date: 2020-03-10T18:53:59Z
+Creation Date: 1997-03-29T05:00:00Z
+
+---
+
+Domain Name: TWITTER.COM
+Registry Domain ID: 18195971_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: http://cscdbs.com
+Updated Date: 2021-01-17T06:10:16Z
+Creation Date: 2000-01-21T16:28:17Z
+
+---
+
+Domain Name: CNN.COM
+Registry Domain ID: 3269879_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: http://cscdbs.com
+Updated Date: 2018-04-10T16:43:38Z
+Creation Date: 1993-09-22T04:00:00Z
+
+---
+
+Domain Name: YOUTUBE.COM
+Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2021-01-14T10:36:28Z
+Creation Date: 2005-02-15T05:13:12Z

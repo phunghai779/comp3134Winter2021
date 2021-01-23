@@ -1,0 +1,2 @@
+Pinging 165.22.226.129 with 32 bytes of data:
+Reply from 165.22.226.129: bytes=32 time=203ms TTL=55
