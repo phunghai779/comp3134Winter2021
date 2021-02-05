@@ -1,0 +1,12 @@
+# tcpdump -c 5 -i eth0
+
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+17:04:37.969708 IP 165.22.226.129.ssh > 38.17.56.132.52196: Flags [P.], seq 829261130:829261238, ack 3671114372, win 501, length 108
+17:04:37.969869 IP 165.22.226.129.ssh > 38.17.56.132.52196: Flags [P.], seq 108:144, ack 1, win 501, length 36
+17:04:37.969998 IP 165.22.226.129.ssh > 38.17.56.132.52196: Flags [P.], seq 144:252, ack 1, win 501, length 108
+17:04:37.970080 IP 165.22.226.129.ssh > 38.17.56.132.52196: Flags [P.], seq 252:288, ack 1, win 501, length 36
+17:04:37.970820 IP 165.22.226.129.55255 > dns.google.domain: 53961+ PTR? 132.56.17.38.in-addr.arpa. (43)
+5 packets captured
+21 packets received by filter
+0 packets dropped by kernel

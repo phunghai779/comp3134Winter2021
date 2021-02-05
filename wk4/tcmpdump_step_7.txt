@@ -1,0 +1,30 @@
+# tcpdump -r 0001.pcap
+
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+17:09:57.957405 IP 165.22.226.129.ssh > 38.17.56.132.52196: Flags [P.], seq 849334382:849334426, ack 3671128932, win 501, length 44
+17:09:57.957547 IP 165.22.226.129.ssh > 38.17.56.132.52196: Flags [P.], seq 44:152, ack 1, win 501, length 108
+17:09:57.957707 IP 165.22.226.129.ssh > 38.17.56.132.52196: Flags [P.], seq 152:188, ack 1, win 501, length 36
+17:09:57.973845 IP 38.17.56.132.52196 > 165.22.226.129.ssh: Flags [.], ack 0, win 16510, options [nop,nop,sack 1 {44:152}], length 0
+17:09:58.001408 IP 165.22.226.129.ssh > 38.17.56.132.52196: Flags [P.], seq 0:44, ack 1, win 501, length 44
+17:09:58.074632 IP 38.17.56.132.52196 > 165.22.226.129.ssh: Flags [.], ack 0, win 16510, options [nop,nop,sack 1 {44:188}], length 0
+17:09:58.079265 IP 38.17.56.132.52196 > 165.22.226.129.ssh: Flags [.], ack 188, win 16516, length 0
+17:09:58.079442 IP 38.17.56.132.52196 > 165.22.226.129.ssh: Flags [.], ack 188, win 16516, options [nop,nop,sack 1 {0:44}], length 0
+17:09:58.173682 IP 49.88.112.73.47244 > 165.22.226.129.ssh: Flags [FP.], seq 3693686282:3693686306, ack 746041640, win 229, options [nop,nop,TS val 625987125 ecr 2003095576], length 24
+17:09:58.173756 IP 165.22.226.129.ssh > 49.88.112.73.47244: Flags [.], ack 4294966425, win 510, options [nop,nop,TS val 2003102008 ecr 625985511,nop,nop,sack 1 {0:25}], length 0
+17:09:58.721263 IP 49.88.112.73.47244 > 165.22.226.129.ssh: Flags [P.], seq 4294966425:0, ack 1, win 229, options [nop,nop,TS val 625987262 ecr 2003102008], length 871
+17:09:58.721353 IP 165.22.226.129.ssh > 49.88.112.73.47244: Flags [.], ack 25, win 503, options [nop,nop,TS val 2003102556 ecr 625987262], length 0
+17:09:58.724196 IP 165.22.226.129.ssh > 49.88.112.73.47244: Flags [P.], seq 1:1057, ack 25, win 503, options [nop,nop,TS val 2003102559 ecr 625987262], length 1056
+17:09:58.730422 IP 165.22.226.129.ssh > 49.88.112.73.47244: Flags [F.], seq 1057, ack 25, win 503, options [nop,nop,TS val 2003102565 ecr 625987262], length 0
+17:09:58.937944 IP 50.58.238.151.51788 > 165.22.226.129.gnutella-svc: Flags [S], seq 622185426, win 29200, options [mss 1460,sackOK,TS val 1845153804 ecr 0,nop,wscale 7], length 0
+17:09:58.961874 IP 49.88.112.73.47244 > 165.22.226.129.ssh: Flags [R], seq 3693686307, win 0, length 0
+17:10:00.942026 IP 50.58.238.151.51788 > 165.22.226.129.gnutella-svc: Flags [S], seq 622185426, win 29200, options [mss 1460,sackOK,TS val 1845154305 ecr 0,nop,wscale 7], length 0
+17:10:01.048713 IP 210.96.96.34.bc.googleusercontent.com.https > 165.22.226.129.57779: Flags [S.], seq 1065616413, ack 327136658, win 65535, options [mss 1430,nop,nop,sackOK,nop,wscale 8], length 0
+17:10:01.820177 IP 194.147.140.81.46715 > 165.22.226.129.17406: Flags [S], seq 2672889207, win 1024, length 0
+17:10:02.094925 IP 210.96.96.34.bc.googleusercontent.com.https > 165.22.226.129.57779: Flags [S.], seq 1065616413, ack 327136658, win 65535, options [mss 1430,nop,nop,sackOK,nop,wscale 8], length 0
+17:10:02.189454 IP 165.22.226.129.ssh > 49.88.112.73.29285: Flags [P.], seq 1681287158:1681288214, ack 3777452645, win 504, options [nop,nop,TS val 2003106024 ecr 625965743], length 1056
+17:10:04.142934 IP 210.96.96.34.bc.googleusercontent.com.https > 165.22.226.129.57779: Flags [S.], seq 1065616413, ack 327136658, win 65535, options [mss 1430,nop,nop,sackOK,nop,wscale 8], length 0
+17:10:04.954034 IP 50.58.238.151.51788 > 165.22.226.129.gnutella-svc: Flags [S], seq 622185426, win 29200, options [mss 1460,sackOK,TS val 1845155308 ecr 0,nop,wscale 7], length 0
+17:10:08.174922 IP 210.96.96.34.bc.googleusercontent.com.https > 165.22.226.129.57779: Flags [S.], seq 1065616413, ack 327136658, win 65535, options [mss 1430,nop,nop,sackOK,nop,wscale 8], length 0
+17:10:13.107677 IP 189.207.109.180.40847 > 165.22.226.129.telnet: Flags [S], seq 2358777881, win 5840, options [mss 1460,sackOK,TS val 579516678 ecr 0,nop,wscale 2], length 0
+17:10:15.505464 IP6 fe80::8084:a3ff:fe56:65d8 > ip6-allrouters: ICMP6, router solicitation, length 16
+17:10:16.106216 IP 189.207.109.180.40847 > 165.22.226.129.telnet: Flags [S], seq 2358777881, win 5840, options [mss 1460,sackOK,TS val 579519678 ecr 0,nop,wscale 2], length 0

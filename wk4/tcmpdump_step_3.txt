@@ -1,0 +1,8 @@
+#tcpdump -A -i eth0
+
+17:05:49.701467 IP 38.17.56.132.52196 > 165.22.226.129.ssh: Flags [.], ack 17316128, win 16513, length 0^C
+E..(}.@.8...&.8.............2u..P.@...........
+
+12186 packets captured
+22433 packets received by filter
+10216 packets dropped by kernel
